@@ -1,7 +1,3 @@
-Here’s the updated README with the **Installation and Setup** section removed:
-
----
-
 # Customer Demographics and Food Ordering Analysis 🍽️
 
 This project analyzes customer demographics and their food ordering behaviors using a dataset. The goal is to understand customer preferences, satisfaction levels, and trends in food ordering based on different demographic factors such as gender, age, occupation, marital status, and more.
